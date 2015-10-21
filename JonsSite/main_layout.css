@@ -1,0 +1,43 @@
+/*This Sheet is used on all the sites created for the wedding website.
+This style is created by Jonathon Patrick with assistance from Leah Cox
+Date: 10/3/2015*/
+
+/*body*/
+body{
+    background-color: royalblue;
+}
+
+/*Headers*/
+h1,h2{
+    color: lightyellow;
+    background-color: forestgreen;
+    font-family: cursive;
+    font-size: 2em;
+    padding: 4px;
+    margin: 0 0 0 0;
+}
+
+/*Paragraphs*/
+p{
+    color: black;
+    font-size: 1.5em;
+}
+
+/*Navigation bar*/
+nav{
+    background-color: lightblue;
+    text-align: center;
+    line-height: 200%;
+    margin: 0 0 0 0;
+}
+
+nav li{
+    display: inline;
+    padding-right: 50px;
+}
+
+/*footer*/
+footer{
+    text-align: center;
+    font-size: .75em;
+}
